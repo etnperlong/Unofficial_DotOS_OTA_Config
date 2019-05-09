@@ -1,0 +1,18 @@
+{
+  "response": [
+     {
+      "datetime": 1557352050,
+      "filename": "dotOS-P-v3.0-zl1-UNOFFICIAL-20190508-1948.zip",
+      "id": "e40e7f6f6cbeadbefa981416a5294953",
+      "romtype": "UNOFFICIAL",
+      "size": 590744934,
+      "url": "https://pan.mykeyvans.space/show/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.0-zl1-UNOFFICIAL-20190508-1948.zip",
+      "version": "v3.0",
+      "changelog_system": "",
+      "changelog_misc" : "Enabled Unofficial OTA for ZL1",
+      "changelog_device" : "Some updates from LineageOS (OP3 Pie blobs, including graphics, audio, perf, DRM, sensors & mediacodec). Thanks to @ThE_MarD & @shivatejapeddi",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "April 05 2019"
+    }
+  ]
+}
