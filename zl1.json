@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1557384521,
-      "filename": "dotOS-P-v3.0-zl1-UNOFFICIAL-20190509-0652.zip",
-      "id": "91d548f09149184c7b0109e19cc33912",
+      "datetime": 1557641276,
+      "filename": "dotOS-P-v3.0-zl1-UNOFFICIAL-20190512-0612.zip",
+      "id": "28cba48215c3d76aa364fa9d42161148",
       "romtype": "UNOFFICIAL",
-      "size": 590690895,
-      "url": "https://pan.mykeyvans.space/show/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.0-zl1-UNOFFICIAL-20190509-0652.zip",
+      "size": 590666039,
+      "url": "https://pan.mykeyvans.space/down/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.0-zl1-UNOFFICIAL-20190512-0612.zip",
       "version": "v3.0",
-      "changelog_system": "",
-      "changelog_misc" : "Enabled Unofficial OTA for ZL1",
-      "changelog_device" : "Some updates from LineageOS (OP3 Pie blobs, including graphics, audio, perf, DRM, sensors & mediacodec). Thanks to @ThE_MarD & @shivatejapeddi",
+      "changelog_system": "Applied May Security Patch 2019",
+      "changelog_misc" : "",
+      "changelog_device" : "",
       "changelog_settings" : "",
-      "changelog_securitypatch" : "April 05 2019"
+      "changelog_securitypatch" : "May 05 2019"
     }
   ]
 }
