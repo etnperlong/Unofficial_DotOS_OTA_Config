@@ -1,18 +1,18 @@
 {
   "response": [
      {
-      "datetime": 1557820252,
-      "filename": "dotOS-P-v3.0-zl1-UNOFFICIAL-20190514-0754.zip",
-      "id": "7fd468214865a07b29e547ab87389076",
+      "datetime": 1561922742,
+      "filename": "dotOS-P-v3.0-zl1-UNOFFICIAL-20190630-1928.zip",
+      "id": "fc2e6781308b54e9fd9aba81c5fccfcd",
       "romtype": "UNOFFICIAL",
-      "size": 590894535,
-      "url": "https://pan.mykeyvans.space/down/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.0-zl1-UNOFFICIAL-20190514-0754.zip",
+      "size": 578748739,
+      "url": "https://pan.mykeyvans.space/down/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.0-zl1-UNOFFICIAL-20190630-1928.zip",
       "version": "v3.0",
-      "changelog_system": "Updated AOSP build to PQ3A.190505.002",
-      "changelog_misc" : "",
-      "changelog_device" : "",
-      "changelog_settings" : "",
-      "changelog_securitypatch" : "May 05 2019"
+      "changelog_system": "AOSP build updates, up to PQ3B.190605.006.\nFramework updates, up to June 30th.",
+      "changelog_misc" : "Some updates from AICP (Thanks to @mosimchah) :\n - Added back adaptive LMK which helps fix memory issues. \n - Increase max visible notification icons. \n - Remove sound trigger.",
+      "changelog_device" : "Did fully updates from LineageOS device tree, with A ton of optimization from blobs.",
+      "changelog_settings" : "Some Chinese translation updates.",
+      "changelog_securitypatch" : "June 05 2019"
     }
   ]
 }
