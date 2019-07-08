@@ -1,17 +1,17 @@
 {
   "response": [
      {
-      "datetime": 1561922742,
-      "filename": "dotOS-P-v3.0-zl1-UNOFFICIAL-20190630-1928.zip",
-      "id": "fc2e6781308b54e9fd9aba81c5fccfcd",
+      "datetime": 1562607930,
+      "filename": "dotOS-P-v3.1-zl1-UNOFFICIAL-20190708-1749.zip",
+      "id": "4f5909a1e6135eb7a17071a0be0e51c6",
       "romtype": "UNOFFICIAL",
-      "size": 578748739,
-      "url": "https://pan.mykeyvans.space/down/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.0-zl1-UNOFFICIAL-20190630-1928.zip",
-      "version": "v3.0",
-      "changelog_system": "AOSP build updates, up to PQ3B.190605.006.\nFramework updates, up to June 30th.",
-      "changelog_misc" : "Some updates from AICP (Thanks to @mosimchah) :\n - Added back adaptive LMK which helps fix memory issues. \n - Increase max visible notification icons. \n - Remove sound trigger.",
-      "changelog_device" : "Did fully updates from LineageOS device tree, with A ton of optimization from blobs.",
-      "changelog_settings" : "Some Chinese translation updates.",
+      "size": 587767833,
+      "url": "https://pan.mykeyvans.space/down/dotOS-3.0-Unofficial-zl1/dotOS-P-v3.1-zl1-UNOFFICIAL-20190708-1749.zip",
+      "version": "v3.1",
+      "changelog_system": "DotOS 3.1!",
+      "changelog_misc" : "Remove internal Browser (due to crashing bug), please install browser manually.",
+      "changelog_device" : "Fix: IR not working.",
+      "changelog_settings" : "",
       "changelog_securitypatch" : "June 05 2019"
     }
   ]
